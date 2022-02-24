@@ -1,0 +1,1 @@
+Это file.txtЭто copy_file.txt
